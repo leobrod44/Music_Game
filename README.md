@@ -1,8 +1,8 @@
 # Music Game
 
-##Summary
+## Summary
 
-##Spaceship Modeling
+## Spaceship Modeling
 
 Blender            |  Unity
 :-------------------------:|:-------------------------:
